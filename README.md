@@ -198,8 +198,3 @@ else:
 3. ✅ **Use appropriate opset version** (13 is safe)
 4. ✅ **ONNX is faster** than native TensorFlow for inference
 5. ✅ **Cross-platform deployment** becomes easy
-
----
----
-
-**Happy Deploying! 🚀*
